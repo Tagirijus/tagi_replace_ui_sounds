@@ -1,7 +1,7 @@
 id=tagi_replace_ui_sounds
 name=Tagi Replace UI Sounds Module (Fairpone 5)
-version=v4
-versionCode=4
+version=v5
+versionCode=5
 author=Manuel Senfft
 description=This little module simply replaces some Fairphon 5 UI sounds
 updateJson=
